@@ -1,0 +1,40 @@
+#TableBox {
+    text-align: center;
+    border-top: solid 1px gray;
+}
+
+#ResultTable {
+    display: inline-block;
+    margin: auto;
+}
+
+#infomations {
+    display: flex;
+}
+
+#tableName {
+    margin: 0.5em 1em 0.5em 1em;
+}
+
+#ExceptionMessage {
+    text-align: center;
+    font-size: large;
+    color: orangered;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 0.2em;
+    border: 2px solid darkgray;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+td {
+    min-width: 10em;
+    padding: 0.2em;
+}

@@ -1,0 +1,13 @@
+#sendButton {
+    height: 2em;
+    margin: 1em;
+    padding: 0.2em;
+    text-align: center;
+    font-size: large;
+    background-color: lightgray;
+    border-radius: 4px;
+}
+
+#sendButton:hover {
+    background-color: silver;
+}

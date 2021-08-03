@@ -1,0 +1,12 @@
+.dateSelecter {
+    height: 2em;
+}
+
+.Options {
+    width: 100%;
+    margin: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
